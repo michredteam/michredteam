@@ -9,7 +9,7 @@
 
   ![89-ezgif com-video-to-gif-converter](https://github.com/michredteam/michredteam/assets/168865716/17135527-a6fa-4278-9cea-722357a14d7e)
 
-
+ https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SSS
 # 💫 About Me:
 With over a decade of experience in the field, I excel in analysis using Splunk, incident response, vulnerability research, and threat hunting based on the MITRE ATT&CK framework, with a particular focus on red team skills. I possess extensive knowledge of security products and maintain a constant passion for the discovery and mitigation of vulnerabilities to strengthen cyber defenses. 
 
